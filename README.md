@@ -20,10 +20,21 @@ Asegúrate de tener `git` y `npm` instalados en tu sistema.
 
 ### Instalación
 
-1. **Clonar el repositorio:**
+1. **Ejecutar estos comendos:**
 
 ```sh
 git clone https://github.com/Arthurx7/RickAndMortyAPI.git
+```
 
+2. **Instalar npm:**
+```sh
+npm install
+```
 
+3. **Crear servidor:**
 
+```sh
+npm run start
+```
+
+Hecho con ❤ por Andrés Felipe Arturo
